@@ -1,5 +1,5 @@
 repository:
-  name: kubectl-ssh
+  name: kubectl-cssh
   description: A kubectl plugin to ssh into Kubernetes nodes within separate tmux panes
   topics: kubernetes, kubectl, plugin, tmux, ssh, kubectl-plugins, krew
   private: false
